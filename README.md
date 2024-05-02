@@ -1,4 +1,4 @@
-# Price Comparison Tool
+# Product matcher for food e-commerce
 
 This Python script is designed for comparing product descriptions and titles between two CSV files (`comp1.csv` and `comp21.csv`) and generating a filtered result based on certain criteria. It primarily utilizes pandas for data manipulation, scikit-learn for text vectorization and similarity calculation, fuzzywuzzy for fuzzy string matching, and tqdm for progress visualization.
 
